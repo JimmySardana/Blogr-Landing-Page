@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,SAAU,CACV,QAAS,CACT,qBAAsB,CACtB,iCAAmC,CACnC,eACF","file":"main.3e589528.chunk.css","sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  font-family: \"Overpass\", sans-serif;\n  font-weight: 600;\n}\n"]}
