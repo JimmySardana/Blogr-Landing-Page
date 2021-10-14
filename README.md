@@ -8,3 +8,6 @@ My motivation is to practice my skill with React, React Hooks and also CSS
 - Mobile Friendly
 - Responsive
 - Interactive Dropdown Menus
+
+### Credits
+- frontendmentor.io for the design
